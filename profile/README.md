@@ -1,4 +1,4 @@
 # WheelsMake
-用于继承 Openink 和 LJM12914 账户下的轮子，然后继续研发。
+Hi there! I'm a student and I love making underlying JavaScript libraries(aka. "wheels") by myself, from which I have learned many about JavaScript and browsers.
 
-造轮子使我快乐
+I have made [luery](//github.com/wheelsmake/luery) as my jQuery, and I'm making a JavaScript framework.
